@@ -2,12 +2,17 @@
 </br>
 <h2 align="left">📫 Connect with me:</h2>
 
--  <a  href="mailto:goktugfevziozcelik@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="goktugfevziozcelik@gmail.com" height="30" width="30"/>
+<a href="mailto:goktugfevziozcelik@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="30" style="margin-right: 10px;">
 </a>
 
-- <a href="https://www.linkedin.com/in/goktugfevziozcelik/" target="blank" rel=”noopener”><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Goktug_Fevzi" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/goktugfevziozcelik/" target="_blank" rel="noopener">
+  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" height="30" width="30" style="margin-right: 10px;">
+</a>
 
-- <a href="https://www.instagram.com/goktug.fevzi/" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Goktug_Fevzi" height="30" width="30" /></a>
+<a href="https://www.instagram.com/goktug.fevzi/" target="_blank" rel="noopener">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram" height="30" width="30" style="margin-right: 10px;">
+</a>
 
 
 
