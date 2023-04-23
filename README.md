@@ -1,6 +1,7 @@
 <h1 align="center">Hello there!</h1>
 </br>
 <h2 align="left">📫 Connect with me:</h2>
+<div align="center">
 
 <a href="mailto:goktugfevziozcelik@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="30" style="margin-right: 10px;">
@@ -13,8 +14,7 @@
 <a href="https://www.instagram.com/goktug.fevzi/" target="_blank" rel="noopener">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram" height="30" width="30" style="margin-right: 10px;">
 </a>
-
-
+</div>
 
 
 <h2># 💻 Tech Stack:</h2>
