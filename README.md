@@ -28,5 +28,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=goktugfevzi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 </br>
+<hr>
+<p align="center">
 
+  ![snake-goktugfevziozcelik](https://user-images.githubusercontent.com/64567701/234678577-c1c03bcd-a42f-40f7-b170-f1ffc25b1204.svg)
+</center>
+</p>
+
+<hr>
 <hr style="border: 0.5px solid gray;"/>
