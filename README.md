@@ -1,5 +1,3 @@
-<h1 align="center">Hello there!</h1>
-</br>
 <h2 align="left">📫 Connect with me:</h2>
 <div align="center">
   <a href="mailto:goktugfevziozcelik@gmail.com">
