@@ -36,4 +36,3 @@
 </p>
 
 <hr>
-<hr style="border: 0.5px solid gray;"/>
