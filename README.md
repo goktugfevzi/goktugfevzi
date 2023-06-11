@@ -11,7 +11,8 @@
   </a>
 
 
-<a href="http://goktugfevziozcelik.com" target="_blank">goktugfevziozcelik.com</a>
+<a href="http://goktugfevziozcelik.com" target="_blank" rel="noopener noreferrer">goktugfevziozcelik.com</a>
+
 
 
 </div>
