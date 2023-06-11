@@ -10,8 +10,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Goktug_Fevzi" height="30" width="30" />
   </a>
 
-<a href="http://goktugfevziozcelik.com" target="_blank">goktugfevziozcelik.com</a>
 
+<a href="http://goktugfevziozcelik.com" target="_blank">goktugfevziozcelik.com</a>
 
 
 </div>
