@@ -1,4 +1,3 @@
-<div style="background-color: #203e5f;">
 <h2 align="left" style="color:#D4E4F7">📫 Connect with me:</h2>
 <div align="center">
   <a href="mailto:goktugfevziozcelik@gmail.com">
@@ -12,7 +11,6 @@
   </a>
 
 </div>
-
 
 <h2 align="left"  style="color:#D4E4F7">💻 Tech Stack:</h2>
 <div align="center">
@@ -29,11 +27,8 @@
 
 </div>
 <hr>
-<p align="center">
-
-  ![snake-goktugfevziozcelik](https://user-images.githubusercontent.com/64567701/234678577-c1c03bcd-a42f-40f7-b170-f1ffc25b1204.svg)
-</center>
-</p>
+<div align="center">
+[ ![snake-goktugfevziozcelik](https://user-images.githubusercontent.com/64567701/234678577-c1c03bcd-a42f-40f7-b170-f1ffc25b1204.svg)](https://goktugfevziozcelik.com)
+</div>
 
 <hr>
-</div>
