@@ -1,4 +1,4 @@
-<h2 align="left" style="color:#D4E4F7"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTk1dTd4NmQ0enJvdXUxcG14MGI1bjJvcTR4YWZqZ3NicGlhZ2dqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JQqNiVhYXanL4yEw1Y/giphy.gif" width="40" height="40" style="margin-right: 10px;"> Connect with me</h2>
+<h2 align="left" style="color:#D4E4F7"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTk1dTd4NmQ0enJvdXUxcG14MGI1bjJvcTR4YWZqZ3NicGlhZ2dqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JQqNiVhYXanL4yEw1Y/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me</h2>
 <div align="center">
   <a href="mailto:goktugfevziozcelik@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="goktugfevziozcelik@gmail.com" height="30" width="30"/>
@@ -12,7 +12,7 @@
 
 </div>
 
-<h2 align="left" style="color:#D4E4F7"><img src="https://media.giphy.com/media/MxZKME5mbgeXckKp14/giphy.gif" width="40" height="40" style="margin-right: 10px;"> Tech Stack</h2>
+<h2 align="left" style="color:#D4E4F7"><img src="https://media.giphy.com/media/MxZKME5mbgeXckKp14/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Tech Stack</h2>
 <div align="center">
 
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://goktugfevziozcelik.com)
@@ -36,7 +36,7 @@
 
 </br>
 
-<h2 align="left"><img src="https://media.giphy.com/media/Ci4L4mgsUJz7bceLvm/giphy.gif" width="40" height="40" style="margin-right: 10px;" > GitHub Stats:</h2>
+<h2 align="left"><img src="https://media.giphy.com/media/Ci4L4mgsUJz7bceLvm/giphy.gif" width="30" height="30" style="margin-right: 10px;" > GitHub Stats:</h2>
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goktugfevzi&theme=transparent&layout=donut)](https://goktugfevziozcelik.com)
