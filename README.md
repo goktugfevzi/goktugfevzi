@@ -25,8 +25,7 @@
 <h2 align="left"  style="color:#D4E4F7">📊 GitHub Stats:</h2>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goktugfevzi&theme=dracula&layout=donut)](goktugfevziozcelik.com)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goktugfevzi&theme=dracula&layout=donut)](https:/goktugfevziozcelik.com)
 </div>
 <hr>
 <p align="center">
