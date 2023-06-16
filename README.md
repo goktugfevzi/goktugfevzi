@@ -12,7 +12,7 @@
 
 </div>
 
-<h2 align="left" style="color:#D4E4F7"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTViYzdjMTQ5N2JlNmVjZjViZDgxNDUwYWI4ZGM4YjI5YWQ0N2UwMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Tech Stack</h2>
+<h2 align="left" style="color:#D4E4F7"><img src="https://media.giphy.com/media/HCwnYWnMgLZUW1BtP2/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Tech Stack</h2>
 <div align="center">
 
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://goktugfevziozcelik.com)
