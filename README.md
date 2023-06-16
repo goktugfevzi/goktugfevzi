@@ -36,7 +36,7 @@
 
 </br>
 
-<h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> GitHub Stats:</h2>
+<h2 align="left"><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30" height="30" style="margin-right: 10px;"> GitHub Stats:</h2>
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goktugfevzi&theme=transparent&layout=donut)](https://goktugfevziozcelik.com)
