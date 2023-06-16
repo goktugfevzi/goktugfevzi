@@ -36,7 +36,7 @@
 
 </br>
 
-<h2 align="left"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHEyejlzaWpjdWo0MG1qM3prbzB5MHRkejNxMnEwM2h1OW53cndleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yq0Zfm8NSjvgNuTla3/giphy.gif" width="50" height="50" > GitHub Stats:</h2>
+<h2 align="left"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHEyejlzaWpjdWo0MG1qM3prbzB5MHRkejNxMnEwM2h1OW53cndleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yq0Zfm8NSjvgNuTla3/giphy.gif" width="50" height="50" style="margin-bottom: -20px;" > GitHub Stats:</h2>
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goktugfevzi&theme=transparent&layout=donut)](https://goktugfevziozcelik.com)
