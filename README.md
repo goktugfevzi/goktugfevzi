@@ -45,7 +45,7 @@
 <hr>
 <div align="center">
 
-[snake-goktugfevziozcelik](https://user-images.githubusercontent.com/64567701/234678577-c1c03bcd-a42f-40f7-b170-f1ffc25b1204.svg)
+![snake-goktugfevziozcelik](https://user-images.githubusercontent.com/64567701/234678577-c1c03bcd-a42f-40f7-b170-f1ffc25b1204.svg)
 
 </div>
 
