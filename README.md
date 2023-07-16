@@ -1,3 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header)
+
+<h3 align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Goktug+Fevzi+Ozcelik;Jr.+Full-Stack+Developer)](https://git.io/typing-svg)
+
+</h3>
+
 <h2 align="left" style="color:#D4E4F7"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTk1dTd4NmQ0enJvdXUxcG14MGI1bjJvcTR4YWZqZ3NicGlhZ2dqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JQqNiVhYXanL4yEw1Y/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me</h2>
 <div align="center">
   <a href="mailto:goktugfevziozcelik@gmail.com">
