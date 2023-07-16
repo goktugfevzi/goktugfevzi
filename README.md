@@ -1,8 +1,8 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header)](goktugfevziozcelik.com)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header)](https://goktugfevziozcelik.com)
 
 <div align="center" >
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito+Sans&weight=700&pause=1000&color=6BA9FF&background=9D74FF00&center=true&vCenter=true&width=435&lines=Goktug+Fevzi+Ozcelik;Jr.+Full-Stack+Developer)](goktugfevziozcelik.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito+Sans&weight=700&pause=1000&color=6BA9FF&background=9D74FF00&center=true&vCenter=true&width=435&lines=Goktug+Fevzi+Ozcelik;Jr.+Full-Stack+Developer)](https://goktugfevziozcelik.com)
 
 </div>
 
