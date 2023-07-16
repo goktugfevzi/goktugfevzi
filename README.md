@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header)
 
-<div align="center"style="margin-left:50" >
+<div align="right" >
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Goktug+Fevzi+Ozcelik;Jr.+Full-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6BA9FF&width=435&lines=Goktug+Fevzi+Ozcelik;Jr.+Full-Stack+Developer)](https://git.io/typing-svg)
 
 </div>
 
