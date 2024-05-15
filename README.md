@@ -7,16 +7,10 @@
 </div>
 
 <h2 align="left" style="color:#D4E4F7"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTk1dTd4NmQ0enJvdXUxcG14MGI1bjJvcTR4YWZqZ3NicGlhZ2dqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JQqNiVhYXanL4yEw1Y/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me</h2>
+
 <div align="center">
-  <a href="mailto:goktugfevziozcelik@gmail.com">
-    <img src="https://github.com/goktugfevzi/goktugfevzi/assets/64567701/31999015-b310-4e4a-ad76-490ab950a563" alt="goktugfevziozcelik@gmail.com" height="30" width="30"/>
-  </a>&nbsp;&nbsp;
-    <a href="https://medium.com/@goktugfevziozcelik" target="blank" rel=”noopener”>
-    <img src="https://github.com/goktugfevzi/goktugfevzi/assets/64567701/9701e707-02df-4408-97e2-debcf84b1f74" alt="goktugfevziozcelik@gmail.com" height="30" width="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/goktugfevziozcelik/" target="blank" rel=”noopener”>
-    <img src="https://github.com/goktugfevzi/goktugfevzi/assets/64567701/574e1c4d-3e82-44e8-a886-85a4cedfd374" alt="Goktug_Fevzi" height="30" width="30" />
-  </a>
+
+<a href="mailto:goktugfevziozcelik@gmail.com"> <img src="https://github.com/goktugfevzi/goktugfevzi/assets/64567701/31999015-b310-4e4a-ad76-490ab950a563" alt="goktugfevziozcelik@gmail.com" height="30" width="30"/></a><a href="https://medium.com/@goktugfevziozcelik" target="blank" rel=”noopener”><img src="https://github.com/goktugfevzi/goktugfevzi/assets/64567701/9701e707-02df-4408-97e2-debcf84b1f74" alt="goktugfevziozcelik@gmail.com" height="30" width="30"/></a><a href="https://www.linkedin.com/in/goktugfevziozcelik/" target="blank" rel=”noopener”><img src="https://github.com/goktugfevzi/goktugfevzi/assets/64567701/574e1c4d-3e82-44e8-a886-85a4cedfd374" alt="Goktug_Fevzi" height="30" width="30" /></a>
 
 </div>
 
